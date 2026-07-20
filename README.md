@@ -1,5 +1,11 @@
 # LoanApprovalML
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-DataFrames-150458?logo=pandas&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Machine learning notebooks for predicting loan approval, covering data preprocessing, classification, and regression modelling.
 
 ## Notebooks
